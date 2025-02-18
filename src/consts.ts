@@ -1,6 +1,6 @@
 export const ROUTES = [
-  { href: "/", label: "Art" },
-  { href: "/about", label: "About" },
+  { href: "/jardineventosky", label: "Home" },
+  { href: "/jardineventosky/about", label: "About" },
 ] as const;
 
 // Icons from https://icon-sets.iconify.design
